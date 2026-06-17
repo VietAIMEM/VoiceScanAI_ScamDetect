@@ -1,15 +1,11 @@
 ## Training Dataset
 
 The datasets used for training the models are provided separately.
+https://drive.google.com/drive/folders/1qClYX0HNIxybAgxONlyZgVN-FvnDmsI5?usp=sharing
 
 ### Voice Detection Models
 
-The four folders below contain the audio datasets used to train the voice detection models, including the Conformer and AASIST classifiers:
-
-* Folder 1
-* Folder 2
-* Folder 3
-* Folder 4
+The four folders below contain the audio datasets used to train the voice detection models, including the Conformer and AASIST classifiers
 
 These datasets contain human speech samples and AI-generated or spoofed speech samples used for voice authenticity detection.
 
@@ -21,7 +17,8 @@ The file:
 scamtext_dataset.txt
 ```
 
-contains the text dataset used to train the TextCNN scam detection model.
+This is Vietnamese data.
+contains the text dataset used to train the TextCNN and FastText scam detection model.
 
 The dataset includes labeled conversation transcripts classified into:
 
