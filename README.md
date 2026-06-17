@@ -2,6 +2,8 @@
 
 VoiceScanAI-and-ScamVision is an AI-powered mobile application designed to detect potential scam calls by analyzing both voice characteristics and conversation content in real time. The system combines speech processing, deep learning, and natural language processing techniques to identify suspicious calls and provide risk alerts to users during phone conversations.
 
+If you want to see the application's working details, go to Readme.md in my_app.
+
 ## Features
 
 * Real-time call monitoring and analysis
