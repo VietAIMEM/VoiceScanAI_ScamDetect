@@ -1,7 +1,7 @@
 ## Training Dataset
 
 The datasets used for training the models are provided separately.
-Contact me for full dataset: qvieta11@gmail.com
+Contact me for full dataset
 
 ### Voice Detection Models
 
