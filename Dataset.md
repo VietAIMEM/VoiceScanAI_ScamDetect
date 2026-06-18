@@ -1,11 +1,12 @@
 ## Training Dataset
 
 The datasets used for training the models are provided separately.
-https://drive.google.com/drive/folders/1qClYX0HNIxybAgxONlyZgVN-FvnDmsI5?usp=sharing
+Contact me for full dataset: qvieta11@gmail.com
 
 ### Voice Detection Models
 
 The four folders below contain the audio datasets used to train the voice detection models, including the Conformer and AASIST classifiers
+3.5h/class
 
 These datasets contain human speech samples and AI-generated or spoofed speech samples used for voice authenticity detection.
 
