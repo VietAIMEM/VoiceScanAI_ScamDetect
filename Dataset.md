@@ -2,7 +2,7 @@
 
 The datasets used for training the models are provided separately.
 
-You can view or download in my Huggingface. My dataset upload at: majsasda/Data_voice_AI_human_scam
+You can view or download in my Huggingface. My dataset upload at: vietkemmai/Data_voice_AI_human_scam
 
 ### Voice Detection Models
 
