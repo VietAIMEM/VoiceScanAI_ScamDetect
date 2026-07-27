@@ -15,6 +15,10 @@ If you want to see the application's working details, go to Readme.md in my_app.
 * Floating overlay displaying live detection results
 * Continuous risk scoring throughout the call
 
+<img width="480" height="417" alt="image" src="https://github.com/user-attachments/assets/7d21c234-f016-48f4-a6b3-1d13460138e3" />
+
+<img width="480" height="986" alt="image" src="https://github.com/user-attachments/assets/f976a6bf-844d-43e1-b9fa-ff41039435fe" />
+
 ## System Architecture
 
 The application consists of three main detection modules:
